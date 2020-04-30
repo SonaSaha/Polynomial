@@ -1,0 +1,6 @@
+﻿  Polynomial.cpp
+c:\users\win 7\source\repos\polynomial\polynomial\polynomial.cpp(73): warning C4101: 'coeff': unreferenced local variable
+c:\users\win 7\source\repos\polynomial\polynomial\polynomial.cpp(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\win 7\source\repos\polynomial\polynomial\polynomial.cpp(129): warning C4018: '<': signed/unsigned mismatch
+c:\users\win 7\source\repos\polynomial\polynomial\polynomial.cpp(211): warning C4018: '<': signed/unsigned mismatch
+  Polynomial.vcxproj -> C:\Users\win 7\source\repos\Polynomial\Debug\Polynomial.exe
